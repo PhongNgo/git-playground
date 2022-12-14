@@ -17,5 +17,10 @@ public class Main {
         An an = new An();
         System.out.println(an);
 
+        //
+
+        Nhat nhat = new Nhat();
+        System.out.println(nhat);
+
     }
 }
