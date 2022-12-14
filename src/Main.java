@@ -17,5 +17,7 @@ public class Main {
         An an = new An();
         System.out.println(an);
 
+        DuongLe duong = new DuongLe();
+        System.out.println(duong);
     }
 }
